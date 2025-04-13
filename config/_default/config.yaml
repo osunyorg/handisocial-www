@@ -8,3 +8,6 @@ params:
   logo:
     header: '/assets/images/logo.svg'
     footer: '/assets/images/icon-white.svg'
+  home:
+    head:
+      title: site
