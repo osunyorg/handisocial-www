@@ -6,7 +6,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Histoire de l'association Handi-social
+  - title: L'histoire
     target: "/lassociation/histoire-de-lassociation-handi-social/"
     kind: page
     new_tab: false
