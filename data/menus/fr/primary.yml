@@ -6,22 +6,22 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Histoire de l'association Handi-social
+  - title: L'histoire
     target: "/lassociation/histoire-de-lassociation-handi-social/"
     kind: page
     new_tab: false
     children: []
     path: "/pages/lassociation/histoire-de-lassociation-handi-social"
     file: content/fr/pages/lassociation/histoire-de-lassociation-handi-social/_index.html
+  - title: Les combats
+    target: "/les-combats/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/les-combats"
+    file: content/fr/pages/les-combats/_index.html
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
-- title: Les combats
-  target: "/les-combats/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/les-combats"
-  file: content/fr/pages/les-combats/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -29,20 +29,6 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
@@ -50,11 +36,4 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/exhibitions"
-  file: content/fr/exhibitions/_index.html
 
