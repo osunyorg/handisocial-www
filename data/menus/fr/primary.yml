@@ -5,7 +5,14 @@ items:
   target: "/lassociation/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Histoire de l'association Handi-social
+    target: "/lassociation/histoire-de-lassociation-handi-social/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/lassociation/histoire-de-lassociation-handi-social"
+    file: content/fr/pages/lassociation/histoire-de-lassociation-handi-social/_index.html
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Actualités
