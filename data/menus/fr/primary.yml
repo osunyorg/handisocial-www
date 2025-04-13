@@ -36,4 +36,11 @@ items:
   children: []
   path: "/exhibitions"
   file: content/fr/exhibitions/_index.html
+- title: L'association
+  target: "/lassociation/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/lassociation"
+  file: content/fr/pages/lassociation/_index.html
 
