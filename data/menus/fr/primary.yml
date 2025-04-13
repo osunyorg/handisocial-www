@@ -50,4 +50,11 @@ items:
   children: []
   path: "/exhibitions"
   file: content/fr/exhibitions/_index.html
+- title: Les combats
+  target: "/les-combats/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/les-combats"
+  file: content/fr/pages/les-combats/_index.html
 
