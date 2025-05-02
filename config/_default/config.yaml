@@ -11,3 +11,12 @@ params:
   home:
     head:
       title: site
+  share_links:
+    enabled: true
+    email: true
+    facebook: true
+    linkedin: true
+    mastodon: true
+    telegram: true
+    twitter: true
+    whatsapp: true
