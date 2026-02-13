@@ -2,38 +2,50 @@
 title: Menu principal
 items:
 - title: L'association
+  slug: l-association
   target: "/lassociation/"
   kind: page
   new_tab: false
   children:
   - title: L'histoire
+    slug: l-histoire
     target: "/lassociation/histoire-de-lassociation-handi-social/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/histoire-de-lassociation-handi-social"
     file: content/fr/pages/lassociation/histoire-de-lassociation-handi-social/_index.html
   - title: Les combats
+    slug: les-combats
     target: "/lassociation/les-combats/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/les-combats"
     file: content/fr/pages/lassociation/les-combats/_index.html
+  descendants_targets:
+  - "/lassociation/histoire-de-lassociation-handi-social/"
+  - "/lassociation/les-combats/"
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
+  slug: agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 
