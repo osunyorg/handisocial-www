@@ -13,12 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/les-combats/"
-to = "/lassociation/les-combats/"
-
-[[redirects]]
-from = "/actualites/2025-05-02-proposition-loi-accessibilite-logement-pmr-par-lfi/"
-to = "/actualites/2025-04-25-proposition-loi-accessibilite-logement-pmr-par-lfi/"
-
